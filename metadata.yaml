@@ -1,0 +1,29 @@
+_repo: Asgard-StoriesTales-from-Norse-Mythology_37488
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 37488-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Cummings, Mabel H.
+    gutenberg_agent_id: '38870'
+    url: http://www.gutenberg.org/2009/agents/38870
+  - agent_name: Foster, Mary H.
+    gutenberg_agent_id: '38869'
+    url: http://www.gutenberg.org/2009/agents/38869
+description: ''
+gutenberg_issued: '2011-09-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37488'
+  lccn: 01024967
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mythology, Norse'
+- !lcsh 'Eddas -- Translations into English'
+- !lcc 'PZ'
+title: 'Asgard Stories: Tales from Norse Mythology'
+url: http://www.gutenberg.org/ebooks/37488
