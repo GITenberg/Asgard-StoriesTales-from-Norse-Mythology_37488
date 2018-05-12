@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '38869'
     url: http://www.gutenberg.org/2009/agents/38869
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37488#Asgard-StoriesTales-from-Norse-Mythology
 gutenberg_issued: '2011-09-20'
 gutenberg_type: Text
 identifiers:
